@@ -1,0 +1,4 @@
+,BinaryEvent,DaysToExpiry,PredictitAskYes,PredictitBidYes,SmarketsAskYes,SmarketsBidYes,PredictitAskNo,PredictitBidNo,SmarketsAskNo,SmarketsBidNo,ProfitLessFees,YesPredictit?,pYes,eFee,WorstCaseProfit,eProfit
+0,MacronReelected2022,60,0.9,0.89,0.89,0.88,0.11,0.1,,,0,FALSE,,,-0.089,
+1,TrumpWin2024,935,0.29,0.28,0.13,0.1,0.72,0.71,0.92,0.89,0.15,FALSE,0,0.028,0.122,0.122
+2,BidenImpeachedTerm1,935,0.25,0.24,0.27,0.22,0.76,0.75,0.79,0.76,-0.03,FALSE,0,0.024,-0.054,-0.054
